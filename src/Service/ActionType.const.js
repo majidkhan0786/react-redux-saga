@@ -1,0 +1,6 @@
+export const INCREASE_COUNT = "INCREASE_COUNT";
+export const DECREASE_COUNT = "DECREASE_COUNT";
+
+export const START_FETCH = "START_FETCH";
+export const PROCESS_FETCH = "PROCESS_FETCH";
+export const END_FETCH = "END_FETCH";
